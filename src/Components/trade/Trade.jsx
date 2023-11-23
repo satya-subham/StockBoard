@@ -44,7 +44,7 @@ export function Trade() {
                 </a>
               </div>
               <div className="open_account_button_div">
-                <button>Open an account</button>
+                <button>Open an Account</button>
               </div>
             </div>
           </nav>
