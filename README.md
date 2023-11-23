@@ -28,4 +28,4 @@ etc..
 <h3> Help & Support -:</h3>
 <p> We Get a Big Support By Our Mentors & Our Team , Where we stuck our mentors are there with us and keep eye on our project. A big thanks to them </p>
 
-<a href='https://stockdashboardteam.netlify.app/'>Hosted Link</a>
+<a href='https://digikull-react-dashboard.netlify.app/'>Hosted Link</a>
